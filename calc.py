@@ -19,3 +19,9 @@ def power(a, b):
 
 def modulus(a, b):
     return a % b
+
+def average(a, b):
+    return (a + b) / 2
+
+def square(a):
+    return a * a
