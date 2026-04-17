@@ -1,5 +1,6 @@
 # Math Library Project
 
+<<<<<<< HEAD
 A simple mathematical functions library implemented in Python.
 
 ## Features
@@ -120,3 +121,12 @@ This project is licensed under the MIT License.
 ## Author
 
 Created by Pooja S - 2006
+=======
+This repository contains basic mathematical functions:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Power
+- Modulus
+>>>>>>> 382cab931e93ed2799d1464f0a8ef414370bc073
